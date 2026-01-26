@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Cooper Grant</h1>
 <h3 align="center">A passionate computer science student at Georgia Tech</h3>
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=coopergrant1&label=Profile%20views&color=0e75b6&style=flat" alt="coopergrant1" /> </p>-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=coopergrant1&label=Profile%20views&color=0e75b6&style=flat" alt="coopergrant1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coopergrant1" alt="coopergrant1" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coopergrant1" alt="coopergrant1" /></a> </p>-->
 
 - 📫 How to reach me **cgrant73@gatech.edu**
 
