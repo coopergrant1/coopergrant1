@@ -1,4 +1,4 @@
-<!--[![MasterHead](banner.png)](https://github.com/coopergrant1/coopergrant1)-->
+[![MasterHead](banner.png)](https://github.com/coopergrant1/coopergrant1)
 
 <h1 align="center">Hi 👋, I'm Cooper Grant</h1>
 <h3 align="center">A passionate computer science student at Georgia Tech</h3>
